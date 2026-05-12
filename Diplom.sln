@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomOpenTK", "DiplomOpenTK.csproj", "{D52041C0-EE17-4FD7-95A5-8D9A8D4C2439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52041C0-EE17-4FD7-95A5-8D9A8D4C2439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52041C0-EE17-4FD7-95A5-8D9A8D4C2439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52041C0-EE17-4FD7-95A5-8D9A8D4C2439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52041C0-EE17-4FD7-95A5-8D9A8D4C2439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7284A1-D666-493F-B079-B40481F583EF}
+	EndGlobalSection
+EndGlobal

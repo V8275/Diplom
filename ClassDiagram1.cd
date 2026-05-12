@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenTKProject.Model">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEwAQAAIAgYAAAIEAAAAAAAACAIAkAABAJAI0IAQAE=</HashCode>
+      <FileName>OpenTK\Core\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.ObjectModule">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Core\ObjectModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.Shader" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgACAAACAAAgAZAAAQCAABAAAEAAICKAAAAwABAAg=</HashCode>
+      <FileName>OpenTK\Core\Shader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OpenTKProject.ShadowMap">
+    <Position X="4.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAwAAAAAAAAAAAEAEAIAAAAEAAAEAAAA=</HashCode>
+      <FileName>OpenTK\Core\ShadowMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.SkyBoxTexture">
+    <Position X="9.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAACAAAAAAAAACAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Core\SkyBoxTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.Texture">
+    <Position X="13" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Core\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.ModelRenderer">
+    <Position X="9.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAIAAAAAAgQAAAAAQAAAAggEAAA=</HashCode>
+      <FileName>OpenTK\Graphics\ModelRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.ShadowMapRenderer">
+    <Position X="14.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAYAAAAIAAAAAAAUAAAAAwAAAAAgBAAA=</HashCode>
+      <FileName>OpenTK\Graphics\ShadowMapRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Renderer">
+    <Position X="11" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAABABQAAAAAABAAABAAAAA=</HashCode>
+      <FileName>OpenTK\Graphics\Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.SceneGL">
+    <Position X="2.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAQAEIkUCAAAAEAAAECAAQAAAgAAAABA=</HashCode>
+      <FileName>OpenTK\Graphics\SceneGL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.LightManager">
+    <Position X="12.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAgACAAEAAAAAAAAAAACAA=</HashCode>
+      <FileName>OpenTK\Lighting\LightManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.FormatConverter">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Models\FormatConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.ModelFactory">
+    <Position X="11.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAACAAAAAAAAAAAAAAgAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Models\ModelFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.VisualModel">
+    <Position X="2.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAQAAAAEAAAAAAIAACCAAAAAgQAAAIEAQQAAAAABA=</HashCode>
+      <FileName>OpenTK\Models\ModelLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.CameraModule">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAcCEFBCEKAAAAEgEIAAABASISEAIAAIRADAgAAACAI=</HashCode>
+      <FileName>OpenTK\Modules\CameraModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.ModuleInitializer">
+    <Position X="5.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAACAAgAAAAAAACAAAACAA=</HashCode>
+      <FileName>OpenTK\Modules\ModuleInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.CollisionModule">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAEAAAAAAAAAAAAQAAAAAQAAABAAAAAAEA=</HashCode>
+      <FileName>OpenTK\Modules\CollisionModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.LightModule">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAAAIAAAgAAAAAIAAAABAAAAIAAgEBAAAA=</HashCode>
+      <FileName>OpenTK\Modules\LightModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.MoveModule">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAwIEAAiIAihAACAAEAAgAAAIAAAgAOADGnQBkwEI=</HashCode>
+      <FileName>OpenTK\Modules\MoveModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.PhysicsModule">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQBgCAEACAAAAIDABAAAAAAAAAJEAQAIIAADACFCQA=</HashCode>
+      <FileName>OpenTK\Modules\PhysicsModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.SkyboxModule">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQCAAAAUAAAAQAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Modules\SkyboxModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.PhysicsWorld">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQQAAAAQADkEAQAAACAAAgAAAAAAAAAEAAABAAAAAEA=</HashCode>
+      <FileName>OpenTK\Physics\PhysicsWorld.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WinFormsOpenTK.GameScene">
+    <Position X="0.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBVgAIAACKgAAAAAQAAyAgUAkIAAAIQAiABIQABBAEQ=</HashCode>
+      <FileName>OpenTK\Scene\GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.TransformObject">
+    <Position X="7.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAwAAIAAAAAAAAAAAAAAAAAgAAAACA=</HashCode>
+      <FileName>OpenTK\Scene\GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.SceneInitializer">
+    <Position X="4" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAgAEAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Scene\SceneInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenTKProject.SceneObject">
+    <Position X="6" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAggCAAAAAAAAAAAAAQAABAAAAAACgAAAAACAA=</HashCode>
+      <FileName>OpenTK\Scene\SceneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.KeyStates">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAABAAAAAAACAQAAAEAFADE=</HashCode>
+      <FileName>OpenTK\KeyStates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.SkyboxPaths">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAEAABAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>OpenTK\SkyboxPaths.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.AppDbContext">
+    <Position X="14.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAQAAAAAAEAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>DataBaseCode\AppDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.DataLoader">
+    <Position X="16.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQBAAIAAAAAEAAQAAAAACIAAAAAAAIAAA=</HashCode>
+      <FileName>DataBaseCode\DataLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsOpenTK.DbModel">
+    <Position X="18.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAIAAAAYIAA=</HashCode>
+      <FileName>DataBaseCode\DbModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="OpenTKProject.ModelTextures">
+    <Position X="17" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAIAAAAIIAA=</HashCode>
+      <FileName>OpenTK\Models\ModelFactory.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WinFormsOpenTK.ScenePreferences">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAEAAAAAIAQAAAAAAAAAAGAoAAQABAE=</HashCode>
+      <FileName>OpenTK\Scene\ScenePreferences.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="OpenTKProject.ModelFormat">
+    <Position X="15.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenTK\Models\ModelLoader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OpenTKProject.MovementMode">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAA=</HashCode>
+      <FileName>OpenTK\Modules\PhysicsModule.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OpenTKProject.RotateMode">
+    <Position X="15.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>OpenTK\Scene\RotateMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
